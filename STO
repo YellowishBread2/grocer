@@ -1,0 +1,8 @@
+name: self
+
+rules:
+        - DOMAIN-SUFFIX,chat.openai.com,GLOBAL
+        - DOMAIN-SUFFIX,openai.com,GLOBAL
+        - DOMAIN-SUFFIX,bilibili.com,GLOBAL
+        - DOMAIN-SUFFIX,biliapi.com,GLOBAL
+        - DOMAIN-SUFFIX,biliapi.net,GLOBAL
