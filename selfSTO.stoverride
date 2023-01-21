@@ -6,3 +6,4 @@ rules:
         - DOMAIN-SUFFIX,bilibili.com,GLOBAL
         - DOMAIN-SUFFIX,biliapi.com,GLOBAL
         - DOMAIN-SUFFIX,biliapi.net,GLOBAL
+        - DOMAIN-SUFFIX,xiaoheihe.cn,GLOBAL
