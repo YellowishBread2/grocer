@@ -1,9 +1,10 @@
 name: self
 
 rules:
-        - DOMAIN-SUFFIX,chat.openai.com,GLOBAL
-        - DOMAIN-SUFFIX,openai.com,GLOBAL
-        - DOMAIN-SUFFIX,bilibili.com,GLOBAL
-        - DOMAIN-SUFFIX,biliapi.com,GLOBAL
-        - DOMAIN-SUFFIX,biliapi.net,GLOBAL
-        - DOMAIN-SUFFIX,xiaoheihe.cn,GLOBAL
+        - DOMAIN-SUFFIX,chat.openai.com,🇺🇸 CN7-US
+        - DOMAIN-SUFFIX,openai.com,🇺🇸 CN7-US
+        
+        - DOMAIN-SUFFIX,bilibili.com,🇭🇰 CN1-HK
+        - DOMAIN-SUFFIX,biliapi.com,🇭🇰 CN1-HK
+        - DOMAIN-SUFFIX,biliapi.net,🇭🇰 CN1-HK
+        - DOMAIN-SUFFIX,xiaoheihe.cn,🇭🇰 CN1-HK
