@@ -8,3 +8,4 @@ rules:
         - DOMAIN-SUFFIX,biliapi.com,🇭🇰 CN1-HK
         - DOMAIN-SUFFIX,biliapi.net,🇭🇰 CN1-HK
         - DOMAIN-SUFFIX,xiaoheihe.cn,🇭🇰 CN1-HK
+        - DOMAIN-SUFFIX,max-c.com,🇭🇰 CN1-HK
