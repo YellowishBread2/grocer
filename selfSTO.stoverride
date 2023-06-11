@@ -1,11 +1,23 @@
 name: self
 
 rules:
-        - DOMAIN-SUFFIX,chat.openai.com,🇺🇸 CN7-US
-        - DOMAIN-SUFFIX,openai.com,🇺🇸 CN7-US
-        
-        - DOMAIN-SUFFIX,bilibili.com,🇭🇰 CN1-HK
-        - DOMAIN-SUFFIX,biliapi.com,🇭🇰 CN1-HK
-        - DOMAIN-SUFFIX,biliapi.net,🇭🇰 CN1-HK
-        - DOMAIN-SUFFIX,xiaoheihe.cn,🇭🇰 CN1-HK
-        - DOMAIN-SUFFIX,max-c.com,🇭🇰 CN1-HK
+        - DOMAIN-SUFFIX,onedrive.com,DIRECT
+        - DOMAIN-SUFFIX,live.com,DIRECT
+        - DOMAIN-SUFFIX,mesh.com,DIRECT
+        - DOMAIN-SUFFIX,sfx.ms,DIRECT
+        - DOMAIN-SUFFIX,microsoft.com,DIRECT
+        - DOMAIN-SUFFIX,office.com,DIRECT
+        - DOMAIN-SUFFIX,fabric.io,DIRECT
+        - DOMAIN-SUFFIX,sharepoint.com,DIRECT
+        - DOMAIN-SUFFIX,onedrive.com,DIRECT
+
+        - DOMAIN-SUFFIX,chat.openai.com,🇺🇸 Relay-US1
+        - DOMAIN-SUFFIX,openai.com,🇺🇸 Relay-US1
+
+        - DOMAIN-SUFFIX,bilibili.com,🇭🇰 Relay-HK1
+        - DOMAIN-SUFFIX,biliapi.com,🇭🇰 Relay-HK1
+        - DOMAIN-SUFFIX,biliapi.net,🇭🇰 Relay-HK1
+
+        - DOMAIN-SUFFIX,bing.com,🇺🇸 Relay-US1
+
+        - DOMAIN-SUFFIX,weibo.com,🇭🇰 Relay-HK1
