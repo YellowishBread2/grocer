@@ -14,9 +14,9 @@ rules:
         - DOMAIN-SUFFIX,chat.openai.com,🇺🇸 Relay-US1
         - DOMAIN-SUFFIX,openai.com,🇺🇸 Relay-US1
 
-        - DOMAIN-SUFFIX,bilibili.com,🇭🇰 Relay-HK1
-        - DOMAIN-SUFFIX,biliapi.com,🇭🇰 Relay-HK1
-        - DOMAIN-SUFFIX,biliapi.net,🇭🇰 Relay-HK1
+        - DOMAIN-SUFFIX,bilibili.com,🇭🇰 Relay-HK2
+        - DOMAIN-SUFFIX,biliapi.com,🇭🇰 Relay-HK2
+        - DOMAIN-SUFFIX,biliapi.net,🇭🇰 Relay-HK2
 
         - DOMAIN-SUFFIX,bing.com,🇺🇸 Relay-US1
 
