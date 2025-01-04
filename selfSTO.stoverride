@@ -22,3 +22,5 @@ rules:
         - DOMAIN-SUFFIX,bing.com,🇺🇸 Relay-US1
 
         - DOMAIN-SUFFIX,weibo.com,🇭🇰 Relay-HK1
+
+        - DOMAIN-SUFFIX,hashi.sbs,🇭🇰 Relay-HK1
