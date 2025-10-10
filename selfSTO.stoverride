@@ -11,7 +11,6 @@ rules:
         - DOMAIN-SUFFIX,sharepoint.com,DIRECT
         - DOMAIN-SUFFIX,onedrive.com,DIRECT
 
-        - DOMAIN-SUFFIX,chat.openai.com,🇯🇵 Relay-JP1
         - DOMAIN-SUFFIX,openai.com,🇯🇵 Relay-JP1
         - DOMAIN-SUFFIX,chatgpt.com,🇯🇵 Relay-JP1
 
