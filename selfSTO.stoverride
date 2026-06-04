@@ -14,12 +14,12 @@ rules:
         - DOMAIN-SUFFIX,openai.com,🇯🇵 Relay-JP1
         - DOMAIN-SUFFIX,chatgpt.com,🇯🇵 Relay-JP1
 
-        - DOMAIN-SUFFIX,bilibili.com,🇭🇰 Relay-HK2
-        - DOMAIN-SUFFIX,biliapi.com,🇭🇰 Relay-HK2
-        - DOMAIN-SUFFIX,biliapi.net,🇭🇰 Relay-HK2
+        - DOMAIN-SUFFIX,bilibili.com,🇯🇵 Relay-JP1
+        - DOMAIN-SUFFIX,biliapi.com,🇯🇵 Relay-JP1
+        - DOMAIN-SUFFIX,biliapi.net,🇯🇵 Relay-JP1
 
         - DOMAIN-SUFFIX,bing.com,🇺🇸 Relay-US1
 
-        - DOMAIN-SUFFIX,weibo.com,🇭🇰 Relay-HK1
+        - DOMAIN-SUFFIX,weibo.com,🇯🇵 Relay-JP1
 
         - DOMAIN-SUFFIX,hashi.sbs,🇯🇵 Relay-JP1
